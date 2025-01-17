@@ -1,0 +1,26 @@
+nav {
+    background-color: darkseagreen;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+header {
+    background-color: darkseagreen;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    background-color: lightgreen;
+    color: #fff;
+}
+
+footer {
+    background-color: darkseagreen;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
